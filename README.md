@@ -5,7 +5,7 @@ Home: https://github.com/openclimatedata/globalwarmingpotentials
 
 Package license: CC0-1.0
 
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/globalwarmingpotentials-feedstock/blob/master/LICENSE.txt)
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/globalwarmingpotentials-feedstock/blob/main/LICENSE.txt)
 
 Summary: Global warming potentials of greenhouse gases from various IPCC reports
 
@@ -17,8 +17,8 @@ Current build status
 
 <table><tr><td>All platforms:</td>
     <td>
-      <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=14802&branchName=master">
-        <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/globalwarmingpotentials-feedstock?branchName=master">
+      <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=14802&branchName=main">
+        <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/globalwarmingpotentials-feedstock?branchName=main">
       </a>
     </td>
   </tr>
