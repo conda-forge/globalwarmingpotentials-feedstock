@@ -1,5 +1,5 @@
 {% set name = "globalwarmingpotentials" %}
-{% set version = "0.9.3" %}
+{% set version = "0.9.4" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/globalwarmingpotentials-{{ version }}.tar.gz
-  sha256: e81eb717ff81d894e43fcdbee1de7a6f2d83e3e6b63789fada8fb24861a2952a
+  sha256: 55738ff5fcda4bd506002e4c7bca46f94af03ec03544e9bfd64c369061fe72b2
 
 build:
   number: 0
