@@ -18,8 +18,8 @@ build:
 requirements:
   host:
     - pip
-    - setuptools
     - python {{ python_min }}
+    - uv-build
   run:
     - pandas
     - python >={{ python_min }}
@@ -37,7 +37,7 @@ about:
   home: https://github.com/openclimatedata/globalwarmingpotentials
   summary: Global warming potentials of greenhouse gases from various IPCC reports
   license: CC0-1.0
-  license_file: LICENSE
+  license_file: LICENSE.txt
   dev_url: https://github.com/openclimatedata/globalwarmingpotentials
 
 extra:
